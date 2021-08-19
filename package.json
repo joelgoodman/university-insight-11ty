@@ -1,0 +1,29 @@
+{
+  "name": "university-insight-11ty",
+  "version": "1.0.0",
+  "description": "11ty-based website for University Insight",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joelgoodman/university-insight-11ty.git"
+  },
+  "keywords": [
+    "eleventy"
+  ],
+  "author": {
+    "name": "Joel G Goodman",
+    "email": "hello@joelgoodman.co",
+    "url": "https://joelgoodman.co"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joelgoodman/university-insight-11ty/issues"
+  },
+  "homepage": "https://github.com/joelgoodman/university-insight-11ty#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^0.12.1"
+  }
+}
