@@ -1,0 +1,28 @@
+@import 'helpers';
+:root {
+    --base-font-size: 100%;
+    --font-body: "synthese", sans-serif;
+    --font-serif: "warnock-pro-display", serif;
+    --weight-book: 300;
+    --weight-regular: 400;
+    --weight-bold: 700;
+
+    // Colors
+    --brand-color--primary: #18C76E;
+    --brand-color--dark: #184B3A;
+    --brand-color--darker: #164032;
+    --brand-color--darkest: #0E1E18;
+    --brand-color--light: #D1F4E2;
+    --brand-color--lighter: #EFFCF5;
+
+    // Grid
+    --grid-unit: 8px;
+    --gutter-sm: calc( var(--grid-unit) * 2 );
+    --gutter-md: calc( var(--grid-unit) * 7 );
+    --gutter-lg: calc( var(--grid-unit) * 10 );
+
+    @include mq(md) {
+        --base-font-size: 112.5%;
+    }
+
+}

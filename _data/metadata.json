@@ -1,0 +1,31 @@
+{
+  "title": "University Insight",
+  "subtitle": "We Are #HigherEdTech",
+  "url": "https://universityinsight.com",
+  "description": "Creating digital tools and experiences that change the paradigm of how colleges and universities do their work.",
+  "lang": "en",
+  "feed": {
+    "subtitle": "Creating digital tools and experiences that change the paradigm of how colleges and universities do their work.",
+    "filename": "atom.xml",
+    "path": "/feed/atom.xml",
+    "url": "https://universityinsight.com/feed/atom.xml",
+    "id": "https://universityinsight.com/"
+  },
+  "author": {
+    "name": "Joel Goodman",
+    "email": "hello@joelgoodman.co",
+    "social" : {
+      "twitter": "joelgoodman",
+      "instagram": "joelgoodman",
+      "github": "joelgoodman",
+      "bravery": "https://bravery.co"
+    }
+  },
+  "twitter": "Uni_Insight",
+  "cloudinary": {
+    "prefix": "https://res.cloudinary.com/universtyinsight/image/upload",
+    "ops": "dpr_auto,f_auto,q_90"
+  },
+  "card_image": "https://res.cloudinary.com/universityinsight/image/upload/v1572363282/jgg-twitter-card.jpg",
+  "card_alt": "Hello, my name is Joel Goodman"
+}
